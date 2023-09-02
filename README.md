@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghab&label=Profile%20views&color=a907e4&style=flat" alt="varghab" /> </p>
 
-- 🔭 Currently working on project - [DevInsights](https://github.com/Varghab/devinsights)
+- 🔭 Currently working on project - Boombastic - An ecommerce store for headphones.
 
 - 🌱 I’m currently learning **Redux and Redux Toolkit**
 
