@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on project - Boombastic - An ecommerce store for headphones.
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **System Design and NextJS**
 
 - 💬 Ask me about **React and Javascript**
 
