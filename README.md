@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghab&label=Profile%20views&color=a907e4&style=flat" alt="varghab" /> </p>
 
-- 🔭 Currently working on project - Boombastic - An ecommerce store for headphones.
+- 🔭 Currently working as a Frontend Engineer at Interestsave
 
 - 🌱 I’m currently learning **System Design and NextJS**
 
