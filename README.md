@@ -11,7 +11,7 @@
 
 - 📫 Mail me at **shibvarghab@gmail.com**
 
-- 📄 Get my resume [https://drive.google.com/file/d/1YCRkGn4OrBfC93MWki7iLA8h8w9Xitpr/view?usp=sharing
+- 📄 Get my resume https://drive.google.com/file/d/1YCRkGn4OrBfC93MWki7iLA8h8w9Xitpr/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
