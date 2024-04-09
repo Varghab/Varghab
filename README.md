@@ -5,7 +5,7 @@
 
 - 🔭 Currently working as a Frontend Engineer at Interestsave
 
-- 🌱 I’m currently learning **System Design and NextJS**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **React and Javascript**
 
