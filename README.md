@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! My name is Varghab Shib</h1>
-<h3 align="center">I am an aspiring full stack developer from India and love to learn and explore new tools and technologies. Thanks for visiting my github profile. ❤️</h3>
+<h3 align="center">I am a full stack developer from India and love to learn and explore new tools and technologies. Thanks for visiting my github profile. ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghab&label=Profile%20views&color=a907e4&style=flat" alt="varghab" /> </p>
 
