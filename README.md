@@ -13,8 +13,7 @@
 
 - 📲 What's App - +91-8837418720   
 
-- 📄 Get my resume https://drive.google.com/file/d/1YCRkGn4OrBfC93MWki7iLA8h8w9Xitpr/view?usp=sharing
-
+- 📄 Get my resume https://drive.google.com/file/d/162Up_MopYQM9R0JMxbWazd86cyUHmDIL/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/varghabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varghabs" height="30" width="40" /></a>
