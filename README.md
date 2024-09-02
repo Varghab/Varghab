@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghab&label=Profile%20views&color=a907e4&style=flat" alt="varghab" /> </p>
 
-- 🔭 Currently working as a Frontend Engineer at Interestsave
+- 🔭 Currently working as a Frontend Develop at https://dev.lightwork.blue/
 
 - 🌱 I’m currently learning **System Design**
 
