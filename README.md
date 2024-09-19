@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghab&label=Profile%20views&color=a907e4&style=flat" alt="varghab" /> </p>
 
-- 🔭 Currently working as a Frontend Developer at https://dev.lightwork.blue/
+- 🔭 Currently working as a Frontend Developer at https://www.lightwork.blue/
 
 - 🌱 I’m currently learning **System Design**
 
